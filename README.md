@@ -1,5 +1,6 @@
 # megalord
 r qui, quand, pourquoi et où a été inventé Internet
+Robert Elliot Kahn co'inventeur 
 c'est decembre 1969 que 2 ordinateur supplémentaires sont connectés à l'université de californie à santa barbara et à l'université de l'utah 
 le résau baptisé "arpanet" compte 4 noeuds 
 un noeud = un ordinateur
@@ -25,5 +26,9 @@ Le copyleft est un moyen de se servir du copyright du programme cela ne signifie
 
 Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, 
 
-c'est une informaticienne américaine elle et dans la mairne de l'armeé 
+c'est une informaticienne américaine elle et dans la mairne de l'armeé
+à cette epoque date l'anecdote d'une panne de mark 2 due à une mite prise dans un relais .
+l'insecte (bug) en anglais fut enlevé avec soin et place dans le journal de bord de grace hopper avec la mention first acual case of bug being foud sois 
+le permier cas réel de decouvert d'insecte  cette joke à push l'expression bug informatique 
+elle crée une langue pour l'ordinateur COBOL en 1959 UN procédé qui sera largement utilisé par les institutions financiéres dans les année 1986         
 
