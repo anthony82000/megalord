@@ -15,7 +15,7 @@ Web, c'est le système qui nous permet de naviguer de pages en pages en cliquant
 8.8.8.8 - 192.168.0.1 - 255.255.255.0 - 127.0.0.1 c'est quoi 
 
 Une adresse IP  ou (internet protocol) c'est un numéro d'indentification qui est attribué de façon permanente ou provisoire à chaque appareil connecté à un résau informatique utilisant l'internet protocol 
-8.8.8.8 c'est le dns des serveur google 
+8.8.8.8 : Google Public DNS est un service de Google qui consiste à offrir des serveurs DNS récursifs aux utilisateurs d'Internet. Il a été annoncé le 9 décembre 20091. (Source : https://github.com/oceanegatien/defi-recherche-web 
 192.168.0.1 c'est l'addrese de l'interface de la box 
 (https://www.supinfo.com/articles/single/4843-adresses-ip-privees-publiques)
 
