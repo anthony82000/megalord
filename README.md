@@ -32,3 +32,10 @@ l'insecte (bug) en anglais fut enlevé avec soin et place dans le journal de bor
 le permier cas réel de decouvert d'insecte  cette joke à push l'expression bug informatique 
 elle crée une langue pour l'ordinateur COBOL en 1959 UN procédé qui sera largement utilisé par les institutions financiéres dans les année 1986         
 
+(https://fr.wikipedia.org/wiki/Grace_Hopper)
+
+ Qu'est-ce que Qwant?
+  Qwant, a été créé en 2013. À l’inverse de son géant concurrent américain, Qwant a développé son modèle économique sur la protection des données personnelles des consommateurs et la protection de la vie privée. Les cookies ne sont pas installés sur le navigateur de l’internaute L’historique des requêtes n’est pas non plus enregistré. Concrètement, il n’y a pas de marchandisation des datas récoltées lorsque l’utilisateur effectue une recherche… 
+  (https://primabord.eduscol.education.fr/qu-est-ce-que-qwant)
+
+  
