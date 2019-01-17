@@ -15,6 +15,8 @@ Web, c'est le système qui nous permet de naviguer de pages en pages en cliquant
 8.8.8.8 - 192.168.0.1 - 255.255.255.0 - 127.0.0.1 c'est quoi 
 
 Une adresse IP  ou (internet protocol) c'est un numéro d'indentification qui est attribué de façon permanente ou provisoire à chaque appareil connecté à un résau informatique utilisant l'internet protocol 
+8.8.8.8 c'est le dns des serveur google 
+192.168.0.1 c'est l'addrese de l'interface de la box 
 (https://www.supinfo.com/articles/single/4843-adresses-ip-privees-publiques)
 
 Que sont le copyright et le copyleft?
@@ -38,4 +40,3 @@ elle crée une langue pour l'ordinateur COBOL en 1959 UN procédé qui sera larg
   Qwant, a été créé en 2013. À l’inverse de son géant concurrent américain, Qwant a développé son modèle économique sur la protection des données personnelles des consommateurs et la protection de la vie privée. Les cookies ne sont pas installés sur le navigateur de l’internaute L’historique des requêtes n’est pas non plus enregistré. Concrètement, il n’y a pas de marchandisation des datas récoltées lorsque l’utilisateur effectue une recherche… 
   (https://primabord.eduscol.education.fr/qu-est-ce-que-qwant)
 
-  
